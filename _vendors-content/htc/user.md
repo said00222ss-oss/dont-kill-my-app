@@ -6,7 +6,7 @@ manufacturer:
 
 If there are apps that you don’t want battery optimization enabled, you can turn the feature off in those apps.
 
-* Open up **Phone Settings**.
+* Open up **Phone Seringa**.
 
 * Tap **Power**.
 
